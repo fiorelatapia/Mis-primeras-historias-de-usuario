@@ -1,0 +1,53 @@
+Como usuaria poder dar de alta un logro con los 
+siguientes datos: título, fecha, área (personal, 
+profesional, aprendizaje, deportiva, laboral), 
+descripción e imagen. Puede ser tipo twitt
+
+Como usuaria poder ver un feed con todos mis logros 
+conseguidos a modo de recopilación
+
+Como usuaria poder ver un solo logro mio de manera 
+aleatoria cada vez que ingreso a la plataforma y debajo 
+ver una lista de logros de otras usuarias de forma 
+aleatoria
+
+Como usuaria poder editar el logro conseguido para 
+corrección de errores o actualización de errores
+
+Como usuaria poder eliminar algún logro conseguido
+para la gestión de la lista de logros
+
+Como usuaria poder realizar la configuración de un logro
+para marcarlo como oculto para exclusivamente la visualización
+personal
+
+Como usuaria poder interactuar con un logro a modo
+de "like"
+
+Como usuaria poder eliminar interacciones en los logros como 
+los "likes"
+
+Como usuaria poder visualizar la cantidad de interacciones "likes" en
+un logro
+
+Como usuaria poder crear mi cuenta con los siguientes 
+datos: correo, fecha de nacimiento (Validar ser mayor 
+de 18 años), nombre de usuaria y contraseña. Enviar 
+correo para validar la dirección de correo electrónico
+
+Como usuaria poder cambiar el nombre de usuaria en configuraciones
+
+Como usuaria poder cambiar la contraseña de la cuenta asociada en
+configuraciones
+
+Como usuaria poder cargar una imagen para foto de perfil para la
+personalización e identificación personal
+
+Como usuaria poder borrar toda mi cuenta y datos asociados al perfil
+creado
+
+Como usuaria poder iniciar sesión con los datos del correo y contraseña
+del perfil asociado
+
+Como usuaria poder descargar todos los logros personales
+conseguidos
